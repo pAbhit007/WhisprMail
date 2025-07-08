@@ -1,4 +1,4 @@
-# WhisprMail
+
 
 An automated email monitoring system that checks for job-related emails, summarizes them, and sends notifications via WhatsApp with both text and voice messages.
 
