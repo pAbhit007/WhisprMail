@@ -1,0 +1,10 @@
+google-auth-oauthlib
+google-api-python-client
+gtts
+selenium
+webdriver_manager
+schedule
+python-dotenv
+pywhatkit
+requests
+google-generativeai
